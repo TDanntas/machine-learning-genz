@@ -3,8 +3,8 @@
 
 Este repositório verifica se um usuário Gen Z possui **alto nível de vício (`High`)** ou não em redes sociais. O projeto aborda desde a Análise Exploratória de Dados (EDA) até a criação de um pipeline.
 
-**Autor:** [Seu Nome]  
-**ID / Registro:** [Seu RA]
+**Autor:** [Thiago Dantas de Farias]  
+**ID / Registro:** [4201051]
 
 ---
 
